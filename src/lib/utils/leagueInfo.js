@@ -12,7 +12,7 @@ export const homepageText = `
   <p>Keep an eye out here for updates about draft time, place, and other important league announcements.</p>
   <p>Good luck to all and spend the offseason sharpening your spreadsheets, reseaching players, teams, rookies, and the Raiders defense.</p>
   <p>As always, DUUUVAL and fuck Ross</p>
-  <p> - Neal</p>
+  <p> - The Commish</p>
 `;
 
 /*   STEP 3   */
